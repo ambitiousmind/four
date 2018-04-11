@@ -1,0 +1,14 @@
+{
+  "name": "sidemenu-app",
+  "email": "",
+  "app_id": "",
+  "package_name": "",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
